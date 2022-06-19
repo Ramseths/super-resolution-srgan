@@ -1,4 +1,4 @@
-# Super Resolution Generation with Efficient Sub-Pixel (SRGAN)
+# Super Resolution Generation (SRGAN)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramseths/super-resolution-srgan)
 ![License](https://img.shields.io/github/license/Ramseths/super-resolution-srgan)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ramseths/super-resolution-srgan)
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-* Efficient Sub-Pixel is a model that reconstructs a high-resolution version of an image given a low-resolution version. It takes advantage of efficient "sub-pixel convolution" layers, which learn a series of image scaling filters.
+* Is a model that reconstructs a high-resolution version of an image given a low-resolution version. It takes advantage of efficient "sub-pixel convolution" layers, which learn a series of image scaling filters.
 
 ![](https://miro.medium.com/max/1400/1*HzJlV2c6XOzRyTojleJdGQ.jpeg)
 
