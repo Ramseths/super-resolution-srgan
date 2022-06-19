@@ -1,4 +1,7 @@
 # Super Resolution Generation with Efficient Sub-Pixel (SRGAN)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramseths/super-resolution-srgan)
+![License](https://img.shields.io/github/license/Ramseths/super-resolution-srgan)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ramseths/super-resolution-srgan)
 
 ## Introduction
 
