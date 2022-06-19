@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/github/license/Ramseths/super-resolution-srgan)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ramseths/super-resolution-srgan)
 
+![](https://miro.medium.com/max/592/1*Hvz6470N58s0u93pjsp-yQ.png)
+
 ## Introduction
 
 * Efficient Sub-Pixel is a model that reconstructs a high-resolution version of an image given a low-resolution version. It takes advantage of efficient "sub-pixel convolution" layers, which learn a series of image scaling filters.
